@@ -19,7 +19,13 @@
   body{
     line-height: 1.6em;
     margin: 0;
-}
+  }
+  .section{
+    display: none;
+  }
+  #intro{
+    display: block;
+  }
   img{
     width: 100px;
     height: 100px;
