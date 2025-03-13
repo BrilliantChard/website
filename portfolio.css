@@ -1,0 +1,56 @@
+  html {
+    background-color: green;
+    margin: 0;
+    padding: 0;
+  }
+  h1{
+    color: #9FE2BF;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  h2{
+    color: brown;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+  }
+  body{
+    line-height: 1.6em;
+    margin: 0;
+}
+  img{
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 50px;
+  }
+  #profile{
+    width: 100px;
+    height: 100px;
+    float: right;
+    margin-right: 10px;
+    border-radius: 50px;
+  }
+  p{
+    font-family: Times New 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+  address{
+    color: white;
+    font-size: 20px;
+  }
+  ol{
+    color: yellow;
+  }
+  a{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: yellow;
+}
